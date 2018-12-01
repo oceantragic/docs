@@ -54,6 +54,7 @@ Certain phones don't work well using bluetooth tethering with OpenAPS. Various u
 <TR><TH>Xiaomi Mi Mix 2 with LineageOS 15.1<TD>Yes<TD>Excellent connectivity - has worked almost flawlessly with tethering. Battery life has also been very good.<TD>Works brilliantly with xDrip+ and G6 - capture rate typically more than 95%.      
 <TR><TH>Nokia 2.1 with Android 8.1 Oreo Go Edition<TD>Yes<TD>Excellent bluetooth tethering to cellular network. No noted network drops. Works excellent as an offline option with XDripAPS. Awesome battery life(4000mAH)<TD>Works well with Dexcom G5 and xDrip. No issues with compatibility. Generally 95%+ capture rate.
 <TR><TH>OnePlus 6 (A6003) with OxygenOS 9.0 <TD>Yes<TD>Excellent connectivity - Tethering has been good and picks up right away. Battery life very good and really fast charge.<TD>xDrip+ w/ G5 - capture rates generally better than 98% on current nightlies.
+<TR><TH>Xiaomi Redmi 4X<TD>Yes<TD>Works very well, OpenAPS rig only makes use of bluetooth tethering, no WiFi is used, so it's a good test. Battery life good. Only occasional issues are rare and to do with the rig, it's rare though<TD>xDrip+ w/ G5 - capture rates generally better than 95% as long as they sensor/transmitter is good.
 </TABLE>
 
 **********************************************************************************************
